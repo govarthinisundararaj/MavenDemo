@@ -7,6 +7,7 @@ public class Task1 {
 
 	public int Adder_fun(int x,int y,int z)
 	{
+		//hello
 	return x+y+z;
 	}
     public int Mul_fun(int x,int y,int z)
