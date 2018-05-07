@@ -25,7 +25,7 @@ public class Task1 {
 		System.out.println("sum="+ obj.Adder_fun(a,b,c));
 		System.out.println("pro="+ obj.Mul_fun(a,b,c));
 		System.out.println("div="+ obj.div_10(a,b,c));
-		
+		//govamadhu
 
 	}
 
