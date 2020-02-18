@@ -13,7 +13,7 @@ public class Testdiv {
 	public void div_fun()
 	{
 		Add a=new Add();
-		Assert.assertEquals(1, a.div_10(5,4,2));
+		Assert.assertEquals(1, a.div_10(5,3,2));
 		
 }
 }
