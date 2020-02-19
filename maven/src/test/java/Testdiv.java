@@ -12,7 +12,7 @@ public class Testdiv {
 	public void div_fun()
 	{
 		Task1 a=new Task1();
-		Assert.assertEquals(2, a.div_10(5,4,2));
+		Assert.assertEquals(1, a.div_10(5,4,2));
 		
 }
 
